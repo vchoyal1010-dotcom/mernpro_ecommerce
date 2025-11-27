@@ -1,0 +1,20 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+
+.Main_page_div{
+    padding-top: 16vh;
+    height: 420px;
+    /* display: flex; */
+    background-color: rgb(15, 49, 78);
+    padding-left: 0px;
+
+    width: 50%;
+
+}
+/* .Main_page_div_1{
+    padding-left: 400px;
+   
+} */

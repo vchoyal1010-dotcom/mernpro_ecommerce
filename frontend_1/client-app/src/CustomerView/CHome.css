@@ -1,0 +1,22 @@
+/* .ab{
+    background-color: rgb(15, 49, 78);
+    height: 30px;
+    width: 90%;
+    color: #ffff;
+    padding-top:5px ;
+} */
+
+/* .second_frontpage_div{
+    position: fixed;
+} */
+
+#Shoping_btn{
+    padding-left: 400px;
+    border-radius: none;
+   position: fixed;
+}
+
+.Shoping_btn_div{
+    padding-left: 400px;
+   position: fixed;
+}

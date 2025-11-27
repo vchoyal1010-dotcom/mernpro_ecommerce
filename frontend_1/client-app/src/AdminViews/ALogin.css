@@ -1,0 +1,19 @@
+
+ .Main_page_div_2{
+    display: flex;
+    background-color:#ffffff;
+     border-radius: 10px;
+    height: 200px;
+    width: 500px;
+    padding-left: 125px;
+    padding-top: 10px;
+} 
+
+
+
+#first{
+     background-color:lightyellow;
+    height: 30px;
+    /* padding: 5px; */
+    margin: 5px;
+}

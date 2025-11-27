@@ -1,0 +1,16 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+
+.CMain_page_div{
+     background-color:rgb(15, 49, 78);
+    height: 500px;
+    width: 60%;
+     padding-left: 0px;
+}
+  
+.Main_page_div_3{
+    padding-top: 16vh;
+}

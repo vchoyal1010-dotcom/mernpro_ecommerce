@@ -1,0 +1,18 @@
+.container{
+    background-color: #ffffff;
+}
+
+
+
+.sbtn{
+    background-color:rgb(15, 49, 78) ;
+    color: #ffffff;
+    border-radius: 3px;
+    margin: 5px;
+    height: 40px;
+    width: 70px;
+}
+
+#id1{
+    padding-left: 60px;
+}

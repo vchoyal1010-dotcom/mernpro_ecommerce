@@ -1,0 +1,10 @@
+.first_div{
+    /* height: 500px; */
+    /* background-color: rgb(15, 49, 78); */
+}
+.second_div{
+    background-color:rgb(15, 49, 78);
+    height: 60px;
+    width: 90%;
+    padding-top: 10px;
+}
